@@ -1,0 +1,20 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.timer {
+  display: flex;
+  font-size: 10rem;
+  font-weight: bold;
+  justify-content: center;
+  margin-bottom: 1rem;
+}
+
+.timer-digits {
+  width: 12rem;
+}
+
+.bp3-button {
+  width: 20rem;
+}
